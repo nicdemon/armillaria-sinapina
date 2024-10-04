@@ -1,0 +1,367 @@
+Module Reconstruction Result
+Show all objects
+  Pathway module
+
+    Carbohydrate metabolism
+      Central carbohydrate metabolism
+        M00001 Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate [PATH:map00010 map01200 map01100] (594)  (complete)
+        M00002 Glycolysis, core module involving three-carbon compounds [PATH:map00010 map01200 map01230 map01100] (332)  (complete)
+        M00003 Gluconeogenesis, oxaloacetate => fructose-6P [PATH:map00010 map00020 map01100] (434)  (complete)
+        M00307 Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:map00010 map00020 map00620 map01200 map01100] (153)  (complete)
+        M00009 Citrate cycle (TCA cycle, Krebs cycle) [PATH:map00020 map01200 map01100] (1475)  (complete)
+        M00010 Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:map00020 map01200 map01210 map01230 map01100] (676)  (complete)
+        M00011 Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate [PATH:map00020 map01200 map01100] (799)  (complete)
+        M00004 Pentose phosphate pathway (Pentose phosphate cycle) [PATH:map00030 map01200 map01100 map01120] (398)  (complete)
+        M00006 Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P [PATH:map00030 map01200 map01100 map01120] (235)  (complete)
+        M00007 Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P [PATH:map00030 map01200 map01230 map01100 map01120] (150)  (complete)
+        M00580 Pentose phosphate pathway, archaea, fructose 6P => ribose 5P [PATH:map00030 map01200 map01230 map01100 map01120] (44)  (1 block missing)
+        M00005 PRPP biosynthesis, ribose 5P => PRPP [PATH:map00030 map00230 map01200 map01230 map01100] (92)  (complete)
+        M00008 Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate [PATH:map00030 map01200 map01100 map01120] (174)  (1 block missing)
+      Other carbohydrate metabolism
+        M00081 Pectin degradation [PATH:map00040 map01100] (193)  (complete)
+        M00632 Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P [PATH:map00052 map01100] (123)  (complete)
+        M00552 D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P [PATH:map00052 map01100] (176)  (1 block missing)
+        M00129 Ascorbate biosynthesis, animals, glucose-1P => ascorbate [PATH:map00040 map00053 map01100] (382)  (1 block missing)
+        M00854 Glycogen biosynthesis, glucose-1P => glycogen/starch [PATH:map00500 map01100] (252)  (complete)
+        M00855 Glycogen degradation, glycogen => glucose-6P [PATH:map00500 map01100] (334)  (complete)
+        M00549 Nucleotide sugar biosynthesis, glucose => UDP-glucose [PATH:map00520 map01100] (290)  (complete)
+        M00554 Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:map00520 map00052 map01100] (68)  (complete)
+        M00012 Glyoxylate cycle [PATH:map00630 map01200 map01100 map01110] (632)  (complete)
+        M00013 Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA [PATH:map00410 map00640 map01200 map01100] (432)  (1 block missing)
+        M00130 Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4 [PATH:map00562 map01100] (331)  (complete)
+        M00131 Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol [PATH:map00562 map01100] (89)  (1 block missing)
+        M00132 Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate [PATH:map00562 map01100] (21)  (complete)
+    Energy metabolism
+      Carbon fixation
+        M00165 Reductive pentose phosphate cycle (Calvin cycle) [PATH:map00710 map01200 map01100 map01120] (476)  (1 block missing)
+        M00166 Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P [PATH:map00710 map01200 map01100 map01120] (173)  (complete)
+        M00167 Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P [PATH:map00710 map01200 map01100 map01120] (303)  (1 block missing)
+        M00168 CAM (Crassulacean acid metabolism), dark [PATH:map00620 map00710 map01200 map01100 map01120] (43)  (complete)
+        M00169 CAM (Crassulacean acid metabolism), light [PATH:map00620 map00710 map01200 map01100 map01120] (94)  (complete)
+        M00172 C4-dicarboxylic acid cycle, NADP - malic enzyme type [PATH:map00620 map00710 map01200 map01100 map01120] (98)  (complete)
+        M00171 C4-dicarboxylic acid cycle, NAD - malic enzyme type [PATH:map00710 map01200 map01100 map01120] (183)  (1 block missing)
+        M00170 C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type [PATH:map00710 map01200 map01100 map01120] (141)  (complete)
+        M00579 Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate [PATH:map00430 map00620 map00720 map01200 map01100 map01120] (64)  (1 block missing)
+      Methane metabolism
+        M00174 Methane oxidation, methanotroph, methane => formaldehyde [PATH:map00680 map01200 map01220 map01100 map01120] (439)  (1 block missing)
+        M00345 Formaldehyde assimilation, ribulose monophosphate pathway [PATH:map00030 map00680 map01200 map01230 map01120] (135)  (1 block missing)
+        M00344 Formaldehyde assimilation, xylulose monophosphate pathway [PATH:map00680 map01200 map01120] (232)  (complete)
+      Nitrogen metabolism
+        M00175 Nitrogen fixation, nitrogen => ammonia [PATH:map00910 map01100 map01120] (2)  (1 block missing)
+        M00531 Assimilatory nitrate reduction, nitrate => ammonia [PATH:map00910 map00910 map01120] (2)  (1 block missing)
+        M00530 Dissimilatory nitrate reduction, nitrate => ammonia [PATH:map00910 map01120] (59)  (1 block missing)
+      Sulfur metabolism
+        M00176 Assimilatory sulfate reduction, sulfate => H2S [PATH:map00920 map01100 map01120] (280)  (complete)
+    Lipid metabolism
+      Fatty acid biosynthesis and degradation
+        M00082 Fatty acid biosynthesis, initiation [PATH:map00061 map01212 map01100] (66)  (complete)
+        M00083 Fatty acid biosynthesis, elongation [PATH:map00061 map01212 map01100] (119)  (complete)
+        M00415 Fatty acid biosynthesis, elongation, endoplasmic reticulum [PATH:map00062 map01040 map01212 map01100] (45)  (complete)
+        M00086 beta-Oxidation, acyl-CoA synthesis [PATH:map00061 map00071 map01212 map01100] (176)  (complete)
+        M00087 beta-Oxidation [PATH:map00071 map01212 map01100] (305)  (complete)
+        M00861 beta-Oxidation, peroxisome, VLCFA [PATH:map01040 map01212] (162)  (complete)
+      Sterol biosynthesis
+        M00102 Ergocalciferol biosynthesis [PATH:map00100 map01100 map01130] (109)  (complete)
+        M00103 Cholecalciferol biosynthesis [PATH:map00100 map01100] (1)  (1 block missing)
+        M00862 beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA [PATH:map00120 map01100] (101)  (1 block missing)
+      Lipid metabolism
+        M00089 Triacylglycerol biosynthesis [PATH:map00561 map01100] (302)  (complete)
+        M00098 Acylglycerol degradation [PATH:map00561 map01100] (102)  (complete)
+        M00090 Phosphatidylcholine (PC) biosynthesis, choline => PC [PATH:map00564 map01100] (282)  (1 block missing)
+        M00091 Phosphatidylcholine (PC) biosynthesis, PE => PC [PATH:map00564 map01100] (61)  (complete)
+        M00092 Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE [PATH:map00564 map01100] (34)  (1 block missing)
+        M00093 Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE [PATH:map00564 map01100] (189)  (complete)
+        M00094 Ceramide biosynthesis [PATH:map00600 map01100] (205)  (complete)
+        M00066 Lactosylceramide biosynthesis [PATH:map00600 map01100] (26)  (complete)
+        M00067 Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid [PATH:map00600 map00565 map01100] (3)  (1 block missing)
+        M00099 Sphingosine biosynthesis [PATH:map00600 map01100] (688)  (complete)
+        M00100 Sphingosine degradation [PATH:map00600 map01100] (143)  (complete)
+    Nucleotide metabolism
+      Purine metabolism
+        M00048 Inosine monophosphate biosynthesis, PRPP + glutamine => IMP [PATH:map00230 map01100] (569)  (complete)
+        M00049 Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:map00230 map01100] (267)  (complete)
+        M00050 Guanine ribonucleotide biosynthesis IMP => GDP,GTP [PATH:map00230 map01100] (281)  (complete)
+      Pyrimidine metabolism
+        M00051 Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP [PATH:map00240 map01100] (199)  (complete)
+        M00052 Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:map00240 map01100] (193)  (complete)
+        M00053 Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP [PATH:map00240 map01100] (414)  (1 block missing)
+        M00046 Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:map00240 map01100] (25)  (complete)
+    Amino acid metabolism
+      Serine and threonine metabolism
+        M00020 Serine biosynthesis, glycerate-3P => serine [PATH:map00260 map00680 map01200 map01230 map01100] (35)  (1 block missing)
+        M00018 Threonine biosynthesis, aspartate => homoserine => threonine [PATH:map00260 map01230 map01100 map01110] (111)  (complete)
+        M00555 Betaine biosynthesis, choline => betaine [PATH:map00260 map01100] (12)  (complete)
+      Cysteine and methionine metabolism
+        M00021 Cysteine biosynthesis, serine => cysteine [PATH:map00270 map00920 map01200 map01230 map01100 map01110] (59)  (1 block missing)
+        M00338 Cysteine biosynthesis, homocysteine + serine => cysteine [PATH:map00260 map00270 map01230 map01100] (105)  (complete)
+        M00017 Methionine biosynthesis, apartate => homoserine => methionine [PATH:map00270 map01230 map01100] (187)  (1 block missing)
+        M00034 Methionine salvage pathway [PATH:map00270 map01100] (208)  (1 block missing)
+        M00035 Methionine degradation [PATH:map00270 map01100] (276)  (complete)
+      Branched-chain amino acid metabolism
+        M00019 Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine [PATH:map00290 map00770 map01210 map01230 map01100 map01110] (409)  (complete)
+        M00535 Isoleucine biosynthesis, pyruvate => 2-oxobutanoate [PATH:map00290 map00660 map01210 map01230 map01100] (82)  (1 block missing)
+        M00570 Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine [PATH:map00290 map01230 map01100] (498)  (complete)
+        M00432 Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate [PATH:map00290 map01210 map01230 map01100 map01110] (225)  (complete)
+        M00036 Leucine degradation, leucine => acetoacetate + acetyl-CoA [PATH:map00280 map01100] (906)  (complete)
+      Lysine metabolism
+        M00016 Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine [PATH:map00300 map01230 map01100] (90)  (complete)
+        M00526 Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine [PATH:map00300 map01230 map01100] (77)  (1 block missing)
+        M00527 Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine [PATH:map00300 map01230 map01110] (87)  (complete)
+        M00030 Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine [PATH:map00300 map01230 map01100] (403)  (1 block missing)
+        M00433 Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate [PATH:map00300 map01210 map01230 map01100] (124)  (complete)
+        M00032 Lysine degradation, lysine => saccharopine => acetoacetyl-CoA [PATH:map00310 map01100] (710)  (complete)
+      Arginine and proline metabolism
+        M00028 Ornithine biosynthesis, glutamate => ornithine [PATH:map00220 map01210 map01230 map01100] (63)  (complete)
+        M00844 Arginine biosynthesis, ornithine => arginine [PATH:map00220 map01230 map01100] (88)  (complete)
+        M00029 Urea cycle [PATH:map00220 map01230 map01100] (107)  (complete)
+        M00015 Proline biosynthesis, glutamate => proline [PATH:map00330 map01230 map01100] (43)  (complete)
+        M00047 Creatine pathway [PATH:map00330 map01100] (10)  (complete)
+      Polyamine biosynthesis
+        M00133 Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine [PATH:map00330 map01100] (277)  (complete)
+        M00134 Polyamine biosynthesis, arginine => ornithine => putrescine [PATH:map00330 map01100] (26)  (complete)
+        M00135 GABA biosynthesis, eukaryotes, putrescine => GABA [PATH:map00330 map01100] (627)  (1 block missing)
+      Histidine metabolism
+        M00026 Histidine biosynthesis, PRPP => histidine [PATH:map00340 map01230 map01100 map01110] (299)  (complete)
+        M00045 Histidine degradation, histidine => N-formiminoglutamate => glutamate [PATH:map00340 map01100] (8)  (complete)
+      Aromatic amino acid metabolism
+        M00022 Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate [PATH:map00400 map01230 map01100 map01110 map01130] (293)  (complete)
+        M00023 Tryptophan biosynthesis, chorismate => tryptophan [PATH:map00400 map01230 map01100 map01110] (168)  (complete)
+        M00024 Phenylalanine biosynthesis, chorismate => phenylalanine [PATH:map00400 map01230 map01100 map01110] (132)  (complete)
+        M00025 Tyrosine biosynthesis, chorismate => tyrosine [PATH:map00400 map01230 map01100] (130)  (1 block missing)
+      Other amino acid metabolism
+        M00027 GABA (gamma-Aminobutyrate) shunt [PATH:map00250 map00650 map01100] (195)  (complete)
+        M00118 Glutathione biosynthesis, glutamate => glutathione [PATH:map00480 map01100] (98)  (complete)
+    Glycan metabolism
+      Glycan biosynthesis
+        M00055 N-glycan precursor biosynthesis [PATH:map00510 map01100] (286)  (complete)
+        M00072 N-glycosylation by oligosaccharyltransferase [PATH:map00510 map00513 map01100] (133)  (complete)
+        M00073 N-glycan precursor trimming [PATH:map00510 map01100] (285)  (complete)
+        M00075 N-glycan biosynthesis, complex type [PATH:map00510 map01100] (39)  (complete)
+        M00065 GPI-anchor biosynthesis, core oligosaccharide [PATH:map00563 map01100] (342)  (complete)
+        M00070 Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer [PATH:map00601 map01100] (2)  (1 block missing)
+        M00071 Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer [PATH:map00601 map01100] (3)  (1 block missing)
+        M00068 Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer [PATH:map00603 map01100] (1)  (1 block missing)
+        M00069 Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3 [PATH:map00604 map01100] (1)  (1 block missing)
+      Glycosaminoglycan metabolism
+        M00058 Glycosaminoglycan biosynthesis, chondroitin sulfate backbone [PATH:map00532 map01100] (6)  (1 block missing)
+    Metabolism of cofactors and vitamins
+      Cofactor and vitamin metabolism
+        M00127 Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P [PATH:map00730 map01100] (37)  (1 block missing)
+        M00125 Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD [PATH:map00740 map01100 map01110] (306)  (1 block missing)
+        M00115 NAD biosynthesis, aspartate => NAD [PATH:map00760 map01100] (256)  (complete)
+        M00119 Pantothenate biosynthesis, valine/L-aspartate => pantothenate [PATH:map00770 map01100 map01110] (152)  (1 block missing)
+        M00120 Coenzyme A biosynthesis, pantothenate => CoA [PATH:map00770 map01100] (155)  (complete)
+        M00123 Biotin biosynthesis, pimeloyl-ACP/CoA => biotin [PATH:map00780 map01100] (123)  (complete)
+        M00126 Tetrahydrofolate biosynthesis, GTP => THF [PATH:map00790 map00670 map01100] (118)  (complete)
+        M00842 Tetrahydrobiopterin biosynthesis, GTP => BH4 [PATH:map00790 map01100] (61)  (1 block missing)
+        M00843 L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4 [PATH:map00790 map01100] (61)  (1 block missing)
+        M00140 C1-unit interconversion, prokaryotes [PATH:map00670 map01100] (71)  (complete)
+        M00141 C1-unit interconversion, eukaryotes [PATH:map00670 map01100] (84)  (complete)
+        M00868 Heme biosynthesis, animals and fungi, glycine => heme [PATH:map00860] (390)  (complete)
+        M00121 Heme biosynthesis, plants and bacteria, glutamate => heme [PATH:map00860 map01100 map01110] (446)  (complete)
+        M00846 Siroheme biosynthesis, glutamate => siroheme [PATH:map00860 map01100 map01110] (220)  (complete)
+    Biosynthesis of terpenoids and polyketides
+      Terpenoid backbone biosynthesis
+        M00095 C5 isoprenoid biosynthesis, mevalonate pathway [PATH:map00900 map01100 map01110] (158)  (1 block missing)
+        M00364 C10-C20 isoprenoid biosynthesis, bacteria [PATH:map00900 map01100 map01110 map01130] (20)  (complete)
+        M00365 C10-C20 isoprenoid biosynthesis, archaea [PATH:map00900 map01100 map01110] (10)  (1 block missing)
+        M00366 C10-C20 isoprenoid biosynthesis, plants [PATH:map00900 map01100 map01110] (412)  (1 block missing)
+        M00367 C10-C20 isoprenoid biosynthesis, non-plant eukaryotes [PATH:map00900 map01100 map01110] (446)  (complete)
+
+  Structural complex
+
+    Energy metabolism
+      Photosynthesis
+        M00161 Photosystem II [PATH:map00195] [BR:ko00194] (2)  (1 block missing)
+        M00163 Photosystem I [PATH:map00195] [BR:ko00194] (3)  (1 block missing)
+      ATP synthesis
+        M00144 NADH:quinone oxidoreductase, prokaryotes [PATH:map00190] (81)  (1 block missing)
+        M00145 NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria [PATH:map00190] (8)  (1 block missing)
+        M00142 NADH:ubiquinone oxidoreductase, mitochondria [PATH:map00190] (47)  (complete)
+        M00143 NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria [PATH:map00190] (442)  (complete)
+        M00146 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex [PATH:map00190] (152)  (1 block missing)
+        M00147 NADH dehydrogenase (ubiquinone) 1 beta subcomplex [PATH:map00190] (77)  (1 block missing)
+        M00149 Succinate dehydrogenase, prokaryotes [PATH:map00190] (27)  (1 block missing)
+        M00150 Fumarate reductase, prokaryotes [PATH:map00190] (2)  (1 block missing)
+        M00148 Succinate dehydrogenase (ubiquinone) [PATH:map00190] (267)  (complete)
+        M00151 Cytochrome bc1 complex respiratory unit [PATH:map00190] (88)  (complete)
+        M00152 Cytochrome bc1 complex [PATH:map00190] (140)  (1 block missing)
+        M00154 Cytochrome c oxidase [PATH:map00190] (284)  (1 block missing)
+        M00155 Cytochrome c oxidase, prokaryotes [PATH:map00190] (14)  (1 block missing)
+        M00153 Cytochrome bd ubiquinol oxidase [PATH:map00190] (5)  (1 block missing)
+        M00417 Cytochrome o ubiquinol oxidase [PATH:map00190] (1)  (1 block missing)
+        M00156 Cytochrome c oxidase, cbb3-type [PATH:map00190] (6)  (1 block missing)
+        M00157 F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195] (79)  (1 block missing)
+        M00158 F-type ATPase, eukaryotes [PATH:map00190] (258)  (1 block missing)
+        M00159 V-type ATPase, prokaryotes [PATH:map00190] (1)  (1 block missing)
+        M00160 V-type ATPase, eukaryotes [PATH:map00190] (582)  (1 block missing)
+    Genetic information processing
+      DNA polymerase
+        M00260 DNA polymerase III complex, bacteria [PATH:map03030 map03430 map03440] [BR:ko03032 ko03400] (18)  (1 block missing)
+        M00261 DNA polymerase alpha / primase complex [PATH:map03030] [BR:ko03032] (72)  (complete)
+        M00262 DNA polymerase delta complex [PATH:map03030 map03410 map03420] [BR:ko03032 ko03400] (160)  (complete)
+        M00263 DNA polymerase epsilon complex [PATH:map03030] [BR:ko03032 ko03400] (23)  (1 block missing)
+        M00293 DNA polymerase zeta complex [PATH:map03460] [BR:ko03400] (146)  (complete)
+        M00294 DNA polymerase gamma complex [BR:ko03032] (10)  (1 block missing)
+      Replication system
+        M00284 Origin recognition complex [PATH:map04110 map04111 map04113] [BR:ko03032] (57)  (complete)
+        M00285 MCM complex [PATH:map03030 map04110 map04111 map04113] [BR:ko03032] (73)  (complete)
+        M00286 GINS complex [BR:ko03032] (116)  (complete)
+        M00288 RPA complex [PATH:map03030 map03420 map03430 map03440] [BR:ko03032 ko03400] (24)  (complete)
+        M00289 RF-C complex [PATH:map03030 map03420 map03430] [BR:ko03032 ko03400] (92)  (complete)
+      Repair system
+        M00296 BER complex [PATH:map03410] [BR:ko03400] (246)  (1 block missing)
+        M00290 Holo-TFIIH complex [PATH:map03420] [BR:ko03021 ko03400] (611)  (complete)
+        M00291 MRN complex [PATH:map03440] [BR:ko03032 ko03400] (24)  (1 block missing)
+        M00292 MRX complex [PATH:map03440 map03450] [BR:ko03400] (24)  (1 block missing)
+        M00297 DNA-PK complex [PATH:map03450 map04110] [BR:ko03032 ko03400] (43)  (complete)
+        M00295 BRCA1-associated genome surveillance complex (BASC) [PATH:map03430 map03440 map03460] [BR:ko03400] (331)  (1 block missing)
+        M00413 FA core complex [PATH:map03460] [BR:ko03400] (2)  (1 block missing)
+        M00414 Bloom's syndrome complex [PATH:map03460] [BR:ko03400] (108)  (1 block missing)
+      RNA polymerase
+        M00183 RNA polymerase, bacteria [PATH:map03020] [BR:ko03021 ko03400] (103)  (1 block missing)
+        M00184 RNA polymerase, archaea [PATH:map03020] [BR:ko03021] (2)  (1 block missing)
+        M00180 RNA polymerase II, eukaryotes [PATH:map03020 map05016] [BR:ko03021 ko03400] (675)  (complete)
+        M00181 RNA polymerase III, eukaryotes [PATH:map03020 map04623] [BR:ko03021] (737)  (complete)
+        M00182 RNA polymerase I, eukaryotes [PATH:map03020] [BR:ko03021] (520)  (complete)
+      Spliceosome
+        M00351 Spliceosome, U1-snRNP [PATH:map03040] [BR:ko03041] (197)  (complete)
+        M00352 Spliceosome, U2-snRNP [PATH:map03040] [BR:ko03041] (460)  (complete)
+        M00354 Spliceosome, U4/U6.U5 tri-snRNP [PATH:map03040] [BR:ko03041] (1508)  (complete)
+        M00355 Spliceosome, 35S U5-snRNP [PATH:map03040] [BR:ko03041] (1156)  (complete)
+        M00353 Spliceosome, Prp19/CDC5L complex [PATH:map03040] [BR:ko03041] (185)  (complete)
+        M00396 Lsm 2-8 complex [PATH:map03040 map03018] [BR:ko03041] (294)  (complete)
+        M00397 Lsm 1-7 complex [PATH:map03018] (170)  (complete)
+        M00398 Sm core complex [PATH:map03040] [BR:ko03032 ko03041] (167)  (complete)
+        M00399 Cap binding complex [PATH:map03013 map03015 map03040 map03040] [BR:ko03041] (25)  (complete)
+      RNA processing
+        M00425 H/ACA ribonucleoprotein complex [PATH:map03008] [BR:ko03032 ko03009] (115)  (complete)
+        M00426 Survival motor neuron (SMN) complex [PATH:map03013] [BR:ko03041] (58)  (1 block missing)
+        M00427 Nuclear pore complex [PATH:map03013] (529)  (1 block missing)
+        M00428 eIF4F complex [PATH:map03013] [BR:ko03012] (396)  (complete)
+        M00430 Exon junction complex (EJC) [PATH:map03013 map03015 map03040] [BR:ko03041] (886)  (complete)
+        M00405 THC complex [PATH:map03040 map03013] [BR:ko03041] (166)  (1 block missing)
+        M00406 TREX complex [PATH:map03013 map03040] [BR:ko03041] (506)  (1 block missing)
+        M00390 Exosome, archaea [PATH:map03018] (189)  (complete)
+        M00391 Exosome, eukaryotes [PATH:map03018] (347)  (complete)
+        M00392 Ski complex [PATH:map03018] (76)  (complete)
+        M00393 TRAMP complex [PATH:map03018] (41)  (complete)
+        M00394 RNA degradosome [PATH:map03018] (65)  (1 block missing)
+        M00395 Decapping complex [PATH:map03018] (53)  (1 block missing)
+      Ribosome
+        M00178 Ribosome, bacteria [PATH:map03010] [BR:ko03011] (760)  (1 block missing)
+        M00179 Ribosome, archaea [PATH:map03010] [BR:ko03011] (1298)  (1 block missing)
+        M00177 Ribosome, eukaryotes [PATH:map03010] [BR:ko03011] (1675)  (complete)
+      Proteasome
+        M00340 Proteasome, 20S core particle [PATH:map03050] [BR:ko03051] (208)  (complete)
+        M00341 Proteasome, 19S regulatory particle (PA700) [PATH:map03050] [BR:ko03051] (538)  (complete)
+        M00337 Immunoproteasome [PATH:map03050] [BR:ko03051] (173)  (1 block missing)
+      Ubiquitin system
+        M00379 SCF-MET30 complex [PATH:map04120 map04111] [BR:ko04121] (140)  (complete)
+        M00380 SCF-BTRC complex [PATH:map04120 map04114 map04310 map04710] [BR:ko04121] (184)  (complete)
+        M00381 SCF-SKP2 complex [PATH:map04120 map04110 map05168] [BR:ko04121] (124)  (1 block missing)
+        M00382 SCF-FBS complex [PATH:map04120 map04141] [BR:ko04121] (124)  (1 block missing)
+        M00407 SCF-CDC4 complex [PATH:map04120 map04111] [BR:ko04121] (198)  (complete)
+        M00411 SCF-GRR1 complex [PATH:map04120 map04111] [BR:ko04121] (228)  (complete)
+        M00383 ECV complex [PATH:map04120 map05211] [BR:ko04121] (36)  (1 block missing)
+        M00384 Cul3-SPOP complex [PATH:map04120] [BR:ko04121] (52)  (1 block missing)
+        M00385 Cul4-DDB1-DDB2 complex [PATH:map04120 map03420] [BR:ko04121 ko03400] (66)  (1 block missing)
+        M00386 Cul4-DDB1-CSA complex [PATH:map04120 map03420] [BR:ko04121 ko03400] (68)  (complete)
+        M00387 SCF-FBW7 complex [PATH:map04120] [BR:ko04121] (131)  (complete)
+        M00388 ECS complex [PATH:map04120] [BR:ko04121] (25)  (1 block missing)
+        M00389 APC/C complex [PATH:map04120 map04110 map04114 map04914 map04111 map04113] [BR:ko04121 ko03036] (329)  (1 block missing)
+      Protein processing
+        M00400 p97-Ufd1-Npl4 complex [PATH:map04141] (89)  (complete)
+        M00401 Sec61 complex [PATH:map03060 map04141 map04145 map05110] [BR:ko02044] (103)  (complete)
+        M00403 HRD1/SEL1 ERAD complex [PATH:map04141] (206)  (1 block missing)
+        M00404 COPII complex [PATH:map04141] (199)  (complete)
+        M00408 ESCRT-0 complex [PATH:map04144] (111)  (complete)
+        M00409 ESCRT-I complex [PATH:map04144] (128)  (1 block missing)
+        M00410 ESCRT-II complex [PATH:map04144] (84)  (complete)
+        M00412 ESCRT-III complex [PATH:map04144] (292)  (complete)
+    Environmental information processing
+      Mineral and organic ion transport system
+        M00185 Sulfate transport system [PATH:map02010] [BR:ko02000] (4)  (1 block missing)
+        M00189 Molybdate transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00438 Nitrate/nitrite transport system [PATH:map00910 map02010] [BR:ko02000] (2)  (1 block missing)
+        M00300 Putrescine transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+      Saccharide, polyol, and lipid transport system
+        M00204 Trehalose/maltose transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00218 Fructose transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00220 Rhamnose transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00198 Putative sn-glycerol-phosphate transport system [PATH:map02010] [BR:ko02000] (1)  (1 block missing)
+        M00669 gamma-Hexachlorocyclohexane transport system [BR:ko02000] (2)  (1 block missing)
+        M00210 Phospholipid transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00670 Mce transport system [BR:ko02000] (2)  (1 block missing)
+        M00207 Putative multiple sugar transport system [BR:ko02000] (2)  (1 block missing)
+        M00221 Putative simple sugar transport system [BR:ko02000] (1)  (1 block missing)
+      Phosphate and amino acid transport system
+        M00222 Phosphate transport system [PATH:map02010] [BR:ko02000] (6)  (1 block missing)
+        M00232 General L-amino acid transport system [PATH:map02010] [BR:ko02000] (10)  (1 block missing)
+        M00237 Branched-chain amino acid transport system [PATH:map02010] [BR:ko02000] (3)  (1 block missing)
+        M00323 Urea transport system [PATH:map02010] [BR:ko02000] (18)  (1 block missing)
+      Peptide and nickel transport system
+        M00439 Oligopeptide transport system [PATH:map02010] [BR:ko02000] (4)  (1 block missing)
+        M00324 Dipeptide transport system [PATH:map02010] [BR:ko02000] (9)  (1 block missing)
+        M00739 Cationic peptide transport system [PATH:map02010] [BR:ko02000] (4)  (1 block missing)
+        M00239 Peptides/nickel transport system [PATH:map02010] [BR:ko02000] (11)  (1 block missing)
+        M00349 Microcin C transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+      Metallic cation, iron-siderophore and vitamin B12 transport system
+        M00240 Iron complex transport system [PATH:map02010] [BR:ko02000] (1)  (1 block missing)
+      ABC-2 type and other transport systems
+        M00255 Lipoprotein-releasing system [PATH:map02010] [BR:ko02000] (1)  (1 block missing)
+        M00259 Heme transport system [PATH:map02010] [BR:ko02000] (2)  (1 block missing)
+        M00258 Putative ABC transport system [BR:ko02000] (2)  (1 block missing)
+        M00254 ABC-2 type transport system [BR:ko02000] (4)  (complete)
+      Phosphotransferase system (PTS)
+        M00276 PTS system, mannose-specific II component [PATH:map00051 map02060] [BR:ko02000] (24)  (1 block missing)
+      Bacterial secretion system
+        M00325 alpha-Hemolysin/cyclolysin transport system [PATH:map02010 map03070] [BR:ko02044] (2)  (1 block missing)
+        M00331 Type II general secretion system [PATH:map03070] [BR:ko02044] (2)  (1 block missing)
+        M00333 Type IV secretion system [PATH:map03070] [BR:ko02044] (2)  (1 block missing)
+        M00335 Sec (secretion) system [PATH:map03070] [BR:ko02044] (74)  (1 block missing)
+        M00429 Competence-related DNA transformation transporter [BR:ko02044] (12)  (1 block missing)
+
+  Functional set
+
+    Metabolism
+      Aminoacyl tRNA
+        M00360 Aminoacyl-tRNA biosynthesis, prokaryotes [PATH:map00970] (1182)  (complete)
+        M00359 Aminoacyl-tRNA biosynthesis, eukaryotes [PATH:map00970] (1242)  (complete)
+      Nucleotide sugar
+        M00362 Nucleotide sugar biosynthesis, prokaryotes [PATH:map00520] (366)  (1 block missing)
+        M00361 Nucleotide sugar biosynthesis, eukaryotes [PATH:map00520] (367)  (complete)
+    Environmental information processing
+      Two-component regulatory system
+        M00443 SenX3-RegX3 (phosphate starvation response) two-component regulatory system [PATH:map02020] [BR:ko02022] (2)  (1 block missing)
+        M00456 ArcB-ArcA (anoxic redox control) two-component regulatory system [PATH:map02020] [BR:ko02022] (1)  (1 block missing)
+        M00497 GlnL-GlnG (nitrogen regulation) two-component regulatory system [PATH:map02020] [BR:ko02022] (4)  (1 block missing)
+        M00516 SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system [PATH:map02020 map04011] [BR:ko02022] (261)  (complete)
+        M00655 AdeS-AdeR two-component regulatory system [PATH:map01501] [BR:ko02022] (1)  (1 block missing)
+      Drug efflux transporter/pump
+        M00713 Fluoroquinolone resistance, efflux pump LfrA (1)  (1 block missing)
+      Drug resistance
+        M00742 Aminoglycoside resistance, protease FtsH (5)  (1 block missing)
+      Cell signaling
+        M00687 MAPK (ERK1/2) signaling [PATH:map04010 map04013 map04011] (91)  (complete)
+        M00688 MAPK (JNK) signaling [PATH:map04010 map04013] (68)  (complete)
+        M00689 MAPK (p38) signaling [PATH:map04010 map04013] (95)  (1 block missing)
+        M00677 Wnt signaling [PATH:map04310] (135)  (complete)
+        M00682 Notch signaling [PATH:map04330] (28)  (complete)
+        M00678 Hedgehog signaling [PATH:map04340 map05217] (59)  (1 block missing)
+        M00679 BMP signaling [PATH:map04350 map04390 map04550] (35)  (1 block missing)
+        M00680 TGF-beta signaling [PATH:map04350 map04390] (71)  (complete)
+        M00681 Activin signaling [PATH:map04350 map04550] (25)  (1 block missing)
+        M00683 Hippo signaling [PATH:map04390 map04391] (55)  (1 block missing)
+        M00684 JAK-STAT signaling [PATH:map04630] (16)  (1 block missing)
+        M00695 cAMP signaling [PATH:map04024] (195)  (complete)
+        M00694 cGMP signaling [PATH:map04022] (7)  (1 block missing)
+        M00691 DNA damage-induced cell cycle checkpoints [PATH:map04110] (117)  (complete)
+        M00692 Cell cycle - G1/S transition [PATH:map04110 map04111] (96)  (1 block missing)
+        M00693 Cell cycle - G2/M transition [PATH:map04110 map04111] (135)  (complete)
+
+  Signature module
+
+    Gene set
+      Drug resistance
+        M00714 Multidrug resistance, efflux pump QacA (1)  (1 block missing)
